@@ -29,7 +29,7 @@ Users should be able to:
 
 ## My process
 
-After reading the style guide and creating the React app, I spent the majority of the time making sure all the functional elements worked before starting any styling. For this project, at least 80% of the logic is driven by the maintenance of the 'filters' used to select the jobs to display. After that, I started styling the components which lead to a couple iterations of code revisions to add omissions and fix bugs. And once I thought the code was working as intended, I spent some time refactoring the code, removing console logs, and adding comments.
+After reading the style guide, I spent the majority of the time making sure all the functional elements worked before starting any styling. For this project, at least 80% of the logic is driven by the maintenance of the 'paginations' and search used to select the jobs to display. After that, I started styling the components which lead to a couple iterations of code revisions to add omissions and fix bugs. And once I thought the code was working as intended, I spent some time refactoring the code, removing console logs, and adding comments.
 
 ### Built with
 
